@@ -1,9 +1,12 @@
+import ItemListContainer from "./components/ItemListContainer"
+import NavBar from "./components/NavBar"
 
 function App() {
   
   return (
     <>
-      <h1>Hola</h1>
+      <NavBar />
+      <ItemListContainer greeting={"Bienvenidos a la mejor tienda de vinos!!!"} />
     </>
   )
 }
