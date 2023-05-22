@@ -1,5 +1,5 @@
 
-import CartWidget from './CartWidget'
+import CartWidget from '../CartWidget'
 import Box from '@mui/material/Box';
 import InputLabel from '@mui/material/InputLabel';
 import FormControl from '@mui/material/FormControl';
